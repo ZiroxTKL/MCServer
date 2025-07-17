@@ -17639,3 +17639,702 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:35:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 175 times.
 
 [23:35:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:35:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 180 times.
+
+[23:35:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 180 times.
+
+[23:35:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:36:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Banshee
+[23:36:06] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:36:07] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:36:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:36:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 185 times.
+
+[23:36:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 185 times.
+
+[23:36:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Scarlet Banshee
+[23:36:44] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:36:44] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:37:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 has made the advancement [Sweet dreams]
+[23:37:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MLPB016 moved wrongly!
+[23:37:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Banshee is 0.01
+[23:37:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL has made the advancement [Sweet dreams]
+[23:37:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:37:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 190 times.
+
+[23:37:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 190 times.
+
+[23:37:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was pummeled by Ioray
+[23:37:47] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:37:47] [Thread-103/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 098f24e9-cdf2-3bce-858e-32f8571a7e7e.
+[23:37:47] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:37:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was pummeled by Ioray
+[23:37:50] [Thread-105/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for fa994638-6d98-35ff-bd99-bdeffe7cf48f.
+[23:37:51] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:37:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was shot by Skeleton
+[23:37:58] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:38:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Raiko is 0.01
+[23:38:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:38:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was shot by Skeleton
+[23:38:12] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:38:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[23:38:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 195 times.
+
+[23:38:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 195 times.
+
+[23:38:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:38:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Roc
+[23:38:35] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:38:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:39:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 200 times.
+
+[23:39:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 200 times.
+
+[23:39:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Ventoraptor
+[23:39:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:16] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:39:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:17] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Ventoraptor
+[23:39:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:19] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:39:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[23:39:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:39:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Ventoraptor
+[23:39:46] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:40:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 205 times.
+
+[23:40:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 205 times.
+
+[23:40:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:40:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was pummeled by Jengu
+[23:40:41] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:40:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 210 times.
+
+[23:40:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 210 times.
+
+[23:40:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Raiko
+[23:40:54] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:40:55] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:41:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:41:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was shot by Skeleton
+[23:41:17] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:41:17] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was shot by Skeleton
+[23:41:21] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Raiko
+[23:41:26] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL died
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed ZiroxTKL]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Lacedon]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Lacedon]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arrow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.dyePowder.blue]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.fish.cod.raw]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.waterjetcharge]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Zombie
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed MLPB016]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.prismarineShard]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.arrow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.quark:crab_leg]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Squid]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.feather]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.bone]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Azure Herma]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.bone]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.feather]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Ioray]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Squid]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.bone]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Raiko]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Experience Orb]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.rottenFlesh]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.notreepunching:axe.flint]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arix]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.arrow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.pickaxeWood]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.bone]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Experience Orb]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.notreepunching:flint_shard]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.wood.oak]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.coal]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.stick]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.fish.cod.raw]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.stonebrick]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.bandage]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.notreepunching:grass_fiber]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arix]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.yellowDust]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Experience Orb]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arrow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arix]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Squid]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arix]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Jengu]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Squid]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Spider]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.bone]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Squid]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.feather]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Roc]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.hellsand]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Afrit]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Lacedon]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Experience Orb]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Squid]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Lacedon]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skylus]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Lacedon]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.bone]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Salamander]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Herma]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Squid]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skylus]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Nymph]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Afrit]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Spider]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.dirt.default]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skylus]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Salamander]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cephignis]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.itemCookedBatWing]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Spider]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.rottenFlesh]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Spider]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Squid]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Witch]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.arrow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Spectre]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Spectre]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Spectre]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Trumpet Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Spider]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Trumpet Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Spider]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Herma]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.beefRaw]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.leather]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.cloth.white]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Lacedon]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.muttonRaw]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Ika]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Spectre]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Roc]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Spider]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Enderman]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Trumpet Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed entity.MinecartTNT.name]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.itemCookedBatWing]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Creeper]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Trumpet Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Deer]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Wolf]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Zombie]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.beefRaw]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.leather]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Skeleton]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Pig]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed entity.MinecartTNT.name]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Wolf]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Bat]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Deer]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.beefRaw]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.leather]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.beefRaw]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Pig]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.itemCookedBatWing]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Golden Ika]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Turkey]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.rustic.olives]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Chupacabra]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Pig]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cephignis]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Pig]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Minecart with Chest]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Wolf]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Turkey]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Pig]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed entity.MinecartTNT.name]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Crab]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Pig]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.tile.rustic.core_root]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Hippocampus]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Crab]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Wolf]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Hippocampus]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Silex]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Pig]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Crab]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.string]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Siren]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Siren]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Siren]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Russet Arisaur]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.gravel]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arisaur]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Minecart with Chest]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.rail]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.flower1.dandelion]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Minecart with Chest]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed entity.MinecartTNT.name]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Falling Block]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Falling Block]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Falling Block]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Falling Block]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Falling Block]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Falling Block]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Falling Block]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Falling Block]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Minecart with Chest]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.leather]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Falling Block]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Minecart with Chest]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.tile.gravel]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Shepherd]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Minecart with Chest]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Nitwit]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Horse]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Weapon Smith]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed item.item.seeds]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Pig]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Pig]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Pig]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arisaur]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Pig]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Rabbit]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Rabbit]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Rabbit]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arisaur]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arisaur]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Cow]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Maka Alpha]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Maka]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Maka]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arisaur]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arisaur]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Arisaur]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Sheep]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Golden Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Golden Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Yale]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Rabbit]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Rabbit]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Rabbit]
+[23:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Killed Rabbit]
+[23:41:33] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:41:34] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:41:34] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:41:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 215 times.
+
+[23:41:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 215 times.
+
+[23:41:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:42:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 220 times.
+
+[23:42:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 220 times.
+
+[23:42:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:43:15] [Server thread/DEBUG] [mixin]: Mixing icenfire.FireExplosionMixin from mixins.rlmixins.explosionparticle.json into com.github.alexthe666.iceandfire.entity.FireExplosion
+[23:43:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 225 times.
+
+[23:43:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 225 times.
+
+[23:43:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[23:43:58] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[23:44:06] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_xKOSMOS42' in StructureBoundingBox{x0=1406, y0=65, z0=5879, x1=1432, y1=81, z1=5908} (0)
+[23:44:06] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_xKOSMOS42
+[23:44:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Baby Kobold
+[23:44:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 230 times.
+
+[23:44:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 230 times.
+
+[23:44:11] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:44:27] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [462, -363]
+[23:44:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Kobold is 0.01
+[23:44:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:45:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 235 times.
+
+[23:45:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 235 times.
+
+[23:45:16] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin2 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6a1a1fd6
+[23:45:16] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin2
+[23:45:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:45:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 240 times.
+
+[23:45:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 240 times.
+
+[23:46:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:46:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 245 times.
+
+[23:46:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 245 times.
+
+[23:47:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:47:26] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound3' in StructureBoundingBox{x0=1119, y0=70, z0=5644, x1=1128, y1=74, z1=5655} (0)
+[23:47:26] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound3
+[23:47:27] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin1 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6a1a1fd6
+[23:47:27] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin1
+[23:47:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 250 times.
+
+[23:47:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 250 times.
+
+[23:47:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:48:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 has made the advancement [Getting an Upgrade]
+[23:48:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 255 times.
+
+[23:48:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 255 times.
+
+[23:48:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[23:49:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[23:49:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 260 times.
+
+[23:49:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 260 times.
+
+[23:49:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:50:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 265 times.
+
+[23:50:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 265 times.
+
+[23:50:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:50:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 270 times.
+
+[23:50:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 270 times.
+
+[23:50:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:51:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL has made the advancement [Getting an Upgrade]
+[23:51:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL has made the advancement [Stone Age]
+[23:51:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:51:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 275 times.
+
+[23:51:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 275 times.
+
+[23:52:01] [Server thread/TRACE] [reccomplex]: Generated structure 'UndergroundTreeoid' in StructureBoundingBox{x0=1529, y0=23, z0=5906, x1=1555, y1=47, z1=5929} (0)
+[23:52:01] [Server thread/TRACE] [RLTweaker]: Structure Generated: UndergroundTreeoid
+[23:52:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:52:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 280 times.
+
+[23:52:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 280 times.
+
+[23:52:33] [Server thread/TRACE] [RLTweaker]: RLCraft_UndergroundRuin3 failed to spawn at [1274, 5955] (incompatible biome edge)
+[23:52:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[23:53:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:53:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 285 times.
+
+[23:53:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 285 times.
+
+[23:53:42] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallAir' in StructureBoundingBox{x0=1294, y0=219, z0=6006, x1=1302, y1=227, z1=6014} (0)
+[23:53:42] [Server thread/TRACE] [RLTweaker]: Structure Generated: ShrineSmallAir
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[23:53:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[23:53:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:53:52] [Server thread/TRACE] [reccomplex]: StonePlantBoulder canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6a1a1fd6
+[23:53:52] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantBoulder
+[23:53:58] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_SmallUndergroundSkeleton' in StructureBoundingBox{x0=1576, y0=14, z0=5892, x1=1584, y1=21, z1=5900} (0)
+[23:53:58] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_SmallUndergroundSkeleton
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[23:54:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[23:54:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 290 times.
+
+[23:54:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 290 times.
+
+[23:54:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 has made the advancement [Suit Up]
+[23:54:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:55:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 295 times.
+
+[23:55:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 295 times.
+
+[23:55:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
