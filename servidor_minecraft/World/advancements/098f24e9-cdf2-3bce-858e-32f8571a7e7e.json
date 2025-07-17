@@ -1,0 +1,86 @@
+{
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-17 23:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-07-17 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-07-17 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-17 23:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-17 23:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-07-17 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2025-07-17 23:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-07-17 23:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2025-07-17 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2025-07-17 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2025-07-17 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-07-17 23:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "deep_ocean": "2025-07-17 23:07:26 +0000",
+      "beaches": "2025-07-17 23:10:36 +0000",
+      "plains": "2025-07-17 23:10:51 +0000",
+      "taiga_cold": "2025-07-17 23:08:10 +0000",
+      "ocean": "2025-07-17 23:10:17 +0000",
+      "cold_beach": "2025-07-17 23:10:08 +0000",
+      "river": "2025-07-17 23:10:45 +0000"
+    },
+    "done": false
+  }
+}

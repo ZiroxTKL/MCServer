@@ -1,0 +1,4 @@
+ShrineSmallWater,1402,1410,5484,5492
+StonePlantMound4,1317,1324,5567,5574
+PeacefulCrypt,1294,1318,5416,5432
+StoneBoulder,1217,1226,5526,5535

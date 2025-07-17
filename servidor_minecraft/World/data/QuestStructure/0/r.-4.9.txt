@@ -1,0 +1,3 @@
+RLCraft_SmallUndergroundSkeleton,-2288,-2280,5087,5095
+UndergroundTreeoid,-2093,-2070,5006,5032
+RLCraft_SmallUndergroundSkeleton,-2071,-2063,4992,5000

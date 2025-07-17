@@ -1,0 +1,6 @@
+DinosaurSkeleton,1402,1448,5658,5667
+StonePlantMound3,1355,1364,5643,5654
+RLCraft_DecentSkeleton,1242,1242,5751,5751
+RLCraft_UndergroundRuin3,1239,1247,5749,5757
+StonePlantMound1,1233,1239,5702,5708
+StonePlantMound1,1210,1216,5649,5655

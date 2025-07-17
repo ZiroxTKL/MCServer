@@ -1,0 +1,2 @@
+RLCraft_DecentWitch,1540,1540,5495,5495
+RLCraft_UndergroundRuin2,1538,1545,5490,5500
