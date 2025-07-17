@@ -39,6 +39,10 @@
 111 63 93 118 76 99 TP_FishingShack.tml
 133 48 175 169 59 186 SunkenShip-v3.tml
 178 65 405 191 80 416 StoneHouseM.tml
+1116 69 5719 1125 72 5728 RuinedSmallFountainDiagonal.tml
+1154 62 5542 1163 71 5550 HutRuined.tml
+1154 63 5400 1189 73 5434 UnderwaterBase.tml
+1187 72 5622 1191 74 5626 EmeraldOreOutcrop.tml
 1202 71 5694 1208 76 5698 VanillaVillageHut-r.tml
 1239 65 5518 1247 71 5528 VanillaVillageForge-p.tml
 1261 68 5622 1268 72 5629 TinyFarmField.tml
@@ -49,6 +53,7 @@
 1382 70 5646 1390 80 5654 LargeStoneHouseWBasement.tml
 1397 63 5528 1428 103 5558 CastleOcean.tml
 1458 63 5644 1465 76 5650 TP_FishingShack.tml
+1475 63 5382 1481 69 5388 SnowHouse2.tml
 1480 75 5813 1492 120 5825 TowerEasy.tml
 1508 66 5537 1513 78 5542 FrozenBush.tml
 1521 64 5455 1532 92 5466 FrozenTree.tml

@@ -17427,3 +17427,215 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:14:31] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=1159, y0=19, z0=5515, x1=1161, y1=22, z1=5517} (0)
 [23:14:31] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMaze' in StructureBoundingBox{x0=1159, y0=18, z0=5506, x1=1194, y1=23, z1=5541} (0)
 [23:14:31] [Server thread/TRACE] [RLTweaker]: Structure Generated: StoneMaze
+[23:14:43] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_DecentSkeleton' in StructureBoundingBox{x0=1175, y0=31, z0=5493, x1=1175, y1=31, z1=5493} (0)
+[23:14:43] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_UndergroundRuin2' in StructureBoundingBox{x0=1170, y0=28, z0=5488, x1=1180, y1=35, z1=5495} (0)
+[23:14:43] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin2
+[23:14:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:15:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 55 times.
+
+[23:15:02] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 55 times.
+
+[23:15:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:15:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 60 times.
+
+[23:15:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 60 times.
+
+[23:16:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 has made the advancement [Stone Age]
+[23:16:18] [Server thread/DEBUG] [mixin]: Mixing carryon.PickupHandlerEntityMixin from mixins.rlmixins.carryonpig.json into tschipp.carryon.common.handler.PickupHandler
+[23:16:18] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/entity/passive/EntityPig to metadata cache
+[23:16:18] [Server thread/DEBUG] [mixin]: Mixing carryon.PickupHandlerChestMixin from mixins.rlmixins.carryonunlooted.json into tschipp.carryon.common.handler.PickupHandler
+[23:16:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:16:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 65 times.
+
+[23:16:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 65 times.
+
+[23:17:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Banshee
+[23:17:21] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:17:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Banshee is 0.01
+[23:17:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 70 times.
+
+[23:17:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 70 times.
+
+[23:17:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:18:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 75 times.
+
+[23:18:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 75 times.
+
+[23:18:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:19:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 80 times.
+
+[23:19:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 80 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:20:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 85 times.
+
+[23:20:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 85 times.
+
+[23:20:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:20:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Ventoraptor
+[23:20:11] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:20:12] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:20:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Ventoraptor
+[23:20:15] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:20:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 has made the advancement [Monster Hunter]
+[23:20:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[23:20:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 90 times.
+
+[23:20:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 90 times.
+
+[23:20:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was blown up by Creeper
+[23:21:08] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:21:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Ventoraptor
+[23:21:15] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:21:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:21:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 95 times.
+
+[23:21:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 95 times.
+
+[23:21:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was pummeled by Jengu
+[23:21:55] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:22:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Ventoraptor
+[23:22:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Jengu is 0.01
+[23:22:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:22:22] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:22:22] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:22:22] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:22:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 100 times.
+
+[23:22:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 100 times.
+
+[23:22:32] [Server thread/DEBUG] [dynamictrees]: Non-viable branch network detected during world generation @ BlockPos{x=1529, y=66, z=5415}
+[23:22:32] [Server thread/DEBUG] [dynamictrees]: Species: dynamictrees:spruce
+[23:22:32] [Server thread/DEBUG] [dynamictrees]: Radius: 4
+[23:22:32] [Server thread/DEBUG] [dynamictrees]: JoCode: JOJxOJx+X09+S9z9+WS+k9veb+nt+WS8nzzz98nty+fv
+[23:22:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[23:23:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:23:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[23:23:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 105 times.
+
+[23:23:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 105 times.
+
+[23:23:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was burnt to a crisp whilst fighting Afrit
+[23:23:24] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was shot by Skeleton
+[23:23:38] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:23:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was pummeled by Afrit
+[23:23:40] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:23:51] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [500, 177]
+[23:23:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:23:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL has made the advancement [Monster Hunter]
+[23:23:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[23:24:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 110 times.
+
+[23:24:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 110 times.
+
+[23:24:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Zombie
+[23:24:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Afrit is 0.01
+[23:24:14] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:24:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Zombie
+[23:24:27] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:24:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:24:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Roc
+[23:24:48] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:25:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 115 times.
+
+[23:25:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 115 times.
+
+[23:25:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Ventoraptor
+[23:25:05] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:25:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Roc is 0.01
+[23:25:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:25:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Ventoraptor
+[23:25:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Ventoraptor
+[23:25:31] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:25:33] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Ventoraptor
+[23:25:50] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:25:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 120 times.
+
+[23:25:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 120 times.
+
+[23:25:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Ventoraptor is 0.001
+[23:26:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:26:19] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [389, 532]
+[23:26:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Afrit is 0.01
+[23:26:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was pummeled by Afrit
+[23:26:24] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:26:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:26:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was pummeled by Reaper
+[23:26:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:26:41] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:26:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 125 times.
+
+[23:26:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 125 times.
+
+[23:26:41] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:26:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:27:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was pummeled by Reaper
+[23:27:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:27:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 130 times.
+
+[23:27:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 130 times.
+
+[23:27:32] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:27:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:27:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:27:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Zombie
+[23:27:51] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:27:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Reaper is 0.01
+[23:28:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 has made the advancement [Ice Bucket Challenge]
+[23:28:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 135 times.
+
+[23:28:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 135 times.
+
+[23:28:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:28:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Ventoraptor
+[23:28:25] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[23:28:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:28:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:29:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:29:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:29:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Ventoraptor is 0.001
+[23:29:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 140 times.
+
+[23:29:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 140 times.
+
+[23:29:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:30:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:30:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 145 times.
+
+[23:30:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 145 times.
+
+[23:30:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:30:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 150 times.
+
+[23:30:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 150 times.
+
+[23:31:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:31:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 155 times.
+
+[23:31:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 155 times.
+
+[23:32:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:32:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 160 times.
+
+[23:32:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 160 times.
+
+[23:32:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:33:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 165 times.
+
+[23:33:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 165 times.
+
+[23:33:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:34:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 170 times.
+
+[23:34:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 170 times.
+
+[23:34:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:35:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 175 times.
+
+[23:35:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 175 times.
+
+[23:35:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
