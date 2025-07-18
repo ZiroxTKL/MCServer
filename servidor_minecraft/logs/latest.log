@@ -109,3 +109,13 @@
 [00:14:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was shot by Skeleton
 [00:15:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Ventoraptor
 [00:15:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Teleported ZiroxTKL to MLPB016]
+[00:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL has made the advancement [Suit Up]
+[00:16:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL has made the advancement [Into Fire]
+[00:16:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Baby Krake
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:25:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 drowned

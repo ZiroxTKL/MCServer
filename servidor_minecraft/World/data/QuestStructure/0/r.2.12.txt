@@ -1,0 +1,4 @@
+ShrineSmallAir,1427,1435,6141,6149
+DesertWatchtower,1417,1427,6203,6213
+RLCraft_DecentCaveSpider,1463,1463,6406,6406
+RLCraft_UndergroundRuin3,1461,1469,6401,6409

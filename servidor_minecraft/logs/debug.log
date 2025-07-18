@@ -18637,3 +18637,116 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [00:15:08] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
 [00:15:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Teleported ZiroxTKL to MLPB016]
 [00:15:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:15:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 420 times.
+
+[00:15:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 420 times.
+
+[00:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL has made the advancement [Suit Up]
+[00:16:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL has made the advancement [Into Fire]
+[00:16:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[00:16:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Baby Krake
+[00:16:20] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[00:16:20] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[00:16:21] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[00:16:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:16:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Baby Krake is 0.01
+[00:16:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[00:16:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[00:16:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 425 times.
+
+[00:16:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 425 times.
+
+[00:16:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Blaze is 0.01
+[00:17:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:17:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[00:17:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[00:17:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[00:17:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 430 times.
+
+[00:17:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 430 times.
+
+[00:17:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:18:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 435 times.
+
+[00:18:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 435 times.
+
+[00:18:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:19:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 440 times.
+
+[00:19:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 440 times.
+
+[00:19:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:20:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 445 times.
+
+[00:20:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 445 times.
+
+[00:20:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:20:21] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [-254, 271]
+[00:20:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 450 times.
+
+[00:20:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 450 times.
+
+[00:20:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:21:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:21:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 455 times.
+
+[00:21:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 455 times.
+
+[00:22:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:22:25] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin3 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6a1a1fd6
+[00:22:25] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin3
+[00:22:25] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallAir' in StructureBoundingBox{x0=1427, y0=208, z0=6141, x1=1435, y1=216, z1=6149} (0)
+[00:22:25] [Server thread/TRACE] [RLTweaker]: Structure Generated: ShrineSmallAir
+[00:22:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 460 times.
+
+[00:22:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 460 times.
+
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:23:01] [Server thread/TRACE] [reccomplex]: Generated structure 'DesertWatchtower' in StructureBoundingBox{x0=1417, y0=61, z0=6203, x1=1427, y1=84, z1=6213} (0)
+[00:23:01] [Server thread/TRACE] [RLTweaker]: Structure Generated: DesertWatchtower
+[00:23:02] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin1 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6a1a1fd6
+[00:23:02] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin1
+[00:23:05] [Server thread/TRACE] [reccomplex]: UnnaturalCrater canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6a1a1fd6
+[00:23:05] [Server thread/TRACE] [RLTweaker]: Structure Generated: UnnaturalCrater
+[00:23:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:23:07] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin3 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6a1a1fd6
+[00:23:07] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin3
+[00:23:10] [Server thread/TRACE] [reccomplex]: StonePlantMound3 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6a1a1fd6
+[00:23:10] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound3
+[00:23:13] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_SmallUndergroundSkeleton' in StructureBoundingBox{x0=1561, y0=21, z0=6270, x1=1569, y1=28, z1=6278} (0)
+[00:23:13] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_SmallUndergroundSkeleton
+[00:23:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 465 times.
+
+[00:23:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 465 times.
+
+[00:23:37] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallFire' in StructureBoundingBox{x0=1714, y0=10, z0=6191, x1=1724, y1=17, z1=6201} (0)
+[00:23:37] [Server thread/TRACE] [RLTweaker]: Structure Generated: ShrineSmallFire
+[00:23:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:24:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 470 times.
+
+[00:24:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 470 times.
+
+[00:24:20] [Server thread/TRACE] [reccomplex]: Generated structure 'P_PreysPerch' in StructureBoundingBox{x0=1593, y0=60, z0=6366, x1=1639, y1=104, z1=6412} (0)
+[00:24:20] [Server thread/TRACE] [RLTweaker]: Structure Generated: P_PreysPerch
+[00:24:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:24:38] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_DecentCaveSpider' in StructureBoundingBox{x0=1463, y0=14, z0=6406, x1=1463, y1=14, z1=6406} (0)
+[00:24:38] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_UndergroundRuin3' in StructureBoundingBox{x0=1461, y0=11, z0=6401, x1=1469, y1=18, z1=6409} (0)
+[00:24:38] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin3
+[00:24:55] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin1 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6a1a1fd6
+[00:24:55] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin1
+[00:25:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 475 times.
+
+[00:25:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 475 times.
+
+[00:25:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 drowned
+[00:25:17] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[00:25:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:25:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 480 times.
+
+[00:25:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 480 times.
+
