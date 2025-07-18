@@ -61,6 +61,7 @@
 1393 67 5873 1398 75 5878 PillarBase.tml
 1397 63 5528 1428 103 5558 CastleOcean.tml
 1407 63 5902 1410 67 5904 SkeletonHeadStatue.tml
+1410 72 6076 1415 77 6081 VanillaVillageLadder-p.tml
 1449 66 5999 1458 73 6008 WoodHouse2_Intact.tml
 1458 63 5644 1465 76 5650 TP_FishingShack.tml
 1475 63 5382 1481 69 5388 SnowHouse2.tml
@@ -74,6 +75,7 @@
 1594 62 5628 1606 84 5640 BaloonVeryLow.tml
 1599 63 5769 1611 117 5781 BaloonHigh.tml
 1612 47 5631 1623 66 5667 SunkenShip-v2.tml
+1627 69 5920 1632 81 5925 FrozenBush.tml
 1627 115 6041 1631 117 6045 EmeraldOreOutcrop.tml
 1673 69 5439 1675 73 5442 SkeletonHeadStatue.tml
 1701 50 5604 1709 62 5630 shipwreck.tml

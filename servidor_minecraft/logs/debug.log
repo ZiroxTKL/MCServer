@@ -18338,3 +18338,152 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:55:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 295 times.
 
 [23:55:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:55:49] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (73, 358) should be (74, 357), EntitySheep['Sheep'/92129, l='World', x=1183.80, y=71.00, z=5735.30]
+[23:55:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:sheep but it was marked as removed already
+[23:55:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 300 times.
+
+[23:55:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 300 times.
+
+[23:56:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:56:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 305 times.
+
+[23:56:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 305 times.
+
+[23:56:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:56:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[23:57:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[23:57:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[23:57:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[23:57:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[23:57:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[23:57:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[23:57:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[23:57:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 310 times.
+
+[23:57:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 310 times.
+
+[23:57:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:57:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[23:57:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[23:58:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[23:58:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[23:58:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[23:58:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 315 times.
+
+[23:58:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 315 times.
+
+[23:58:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:58:58] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[23:58:58] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[23:58:58] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:58:58] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[23:58:58] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:59:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[23:59:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 320 times.
+
+[23:59:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 320 times.
+
+[23:59:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:00:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 325 times.
+
+[00:00:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 325 times.
+
+[00:00:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Krake is 0.01
+[00:00:17] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin3 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6a1a1fd6
+[00:00:17] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin3
+[00:00:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Krake
+[00:00:21] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[00:00:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Krake is 0.01
+[00:00:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:00:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 330 times.
+
+[00:00:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 330 times.
+
+[00:00:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[00:01:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:01:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Krake is 0.01
+[00:01:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 335 times.
+
+[00:01:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 335 times.
+
+[00:02:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:02:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 340 times.
+
+[00:02:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 340 times.
+
+[00:02:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:03:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 345 times.
+
+[00:03:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 345 times.
+
+[00:03:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:03:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was pummeled by Xaphan
+[00:03:41] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[00:03:41] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[00:03:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Geonach is 0.01
+[00:04:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 350 times.
+
+[00:04:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 350 times.
+
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[00:04:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[00:04:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:04:33] [Server thread/TRACE] [RLTweaker]: StonePlantMound failed to spawn at [1101, 5515] (incompatible biome edge)
+[00:04:35] [Server thread/TRACE] [reccomplex]: Generated structure 'ChurchGraveyardRuins' in StructureBoundingBox{x0=1085, y0=67, z0=5673, x1=1128, y1=100, z1=5720} (0)
+[00:04:35] [Server thread/TRACE] [RLTweaker]: Structure Generated: ChurchGraveyardRuins
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[00:04:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[00:04:55] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_DecentWitch' in StructureBoundingBox{x0=1103, y0=37, z0=5470, x1=1103, y1=37, z1=5470} (0)
+[00:04:55] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_UndergroundRuin3' in StructureBoundingBox{x0=1098, y0=34, z0=5464, x1=1106, y1=41, z1=5472} (0)
+[00:04:55] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin3
+[00:05:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 355 times.
+
+[00:05:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 355 times.
+
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[00:05:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:05:34] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=1077, y0=69, z0=5644, x1=1090, y1=79, z1=5656} (0)
+[00:05:34] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound2

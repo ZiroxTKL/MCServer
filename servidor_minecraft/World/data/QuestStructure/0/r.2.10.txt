@@ -66,3 +66,5 @@ StoneMazeEndChest,1159,1161,5515,5517
 StoneMaze,1159,1194,5506,5541
 RLCraft_DecentSkeleton,1175,1175,5493,5493
 RLCraft_UndergroundRuin2,1170,1180,5488,5495
+RLCraft_DecentWitch,1103,1103,5470,5470
+RLCraft_UndergroundRuin3,1098,1106,5464,5472
