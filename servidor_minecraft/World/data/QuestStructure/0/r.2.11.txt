@@ -9,3 +9,5 @@ StonePlantMound3,1119,1128,5644,5655
 ShrineSmallAir,1294,1302,6006,6014
 ChurchGraveyardRuins,1085,1128,5673,5720
 StonePlantMound2,1077,1090,5644,5656
+UndergroundCultChamber,1317,1349,6068,6110
+SpiderPit,1417,1427,6085,6094

@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-18 00:11:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-07-17 23:21:09 +0000"
@@ -310,7 +316,8 @@
       "cooked_mutton": "2025-07-17 23:50:27 +0000",
       "beef": "2025-07-17 23:57:03 +0000",
       "bread": "2025-07-17 23:19:28 +0000",
-      "rotten_flesh": "2025-07-17 23:30:15 +0000"
+      "rotten_flesh": "2025-07-17 23:30:15 +0000",
+      "cooked_rabbit": "2025-07-18 00:06:48 +0000"
     },
     "done": false
   },
@@ -416,6 +423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-18 00:11:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-07-17 23:58:36 +0000"
@@ -473,6 +486,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-07-17 23:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-18 00:11:19 +0000"
     },
     "done": true
   },
@@ -568,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-18 00:14:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-07-17 23:16:12 +0000"
@@ -637,6 +662,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-07-17 23:38:19 +0000",
+      "blaze": "2025-07-18 00:10:41 +0000",
+      "cave_spider": "2025-07-18 00:12:11 +0000",
       "zombie": "2025-07-17 23:26:26 +0000",
       "spider": "2025-07-17 23:20:50 +0000",
       "creeper": "2025-07-17 23:23:15 +0000"

@@ -48,3 +48,64 @@
 [00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
 [00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [00:05:03] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[00:05:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[00:06:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL died from parasites
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[00:07:54] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[00:09:14] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[00:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Dark Geist
+[00:09:23] [Thread-166/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 098f24e9-cdf2-3bce-858e-32f8571a7e7e.
+[00:10:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was fireballed by Blaze
+[00:11:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 has made the advancement [Into Fire]
+[00:12:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was burnt to a crisp whilst fighting Blaze
+[00:13:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was burnt to a crisp whilst fighting Blaze
+[00:14:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was shot by Skeleton
+[00:14:02] [Thread-177/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for fa994638-6d98-35ff-bd99-bdeffe7cf48f.
+[00:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was shot by Skeleton
+[00:14:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was shot by Skeleton
+[00:15:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL was slain by Ventoraptor
+[00:15:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZiroxTKL: Teleported ZiroxTKL to MLPB016]

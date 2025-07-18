@@ -41,6 +41,7 @@
 178 65 405 191 80 416 StoneHouseM.tml
 1106 73 5640 1114 79 5648 LargeStoneHouse.tml
 1116 69 5719 1125 72 5728 RuinedSmallFountainDiagonal.tml
+1120 89 5974 1133 136 5987 Orthanc.tml
 1141 71 5831 1148 78 5838 Outcrop.tml
 1154 62 5542 1163 71 5550 HutRuined.tml
 1154 63 5400 1189 73 5434 UnderwaterBase.tml
