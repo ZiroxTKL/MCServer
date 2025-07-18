@@ -18840,3 +18840,93 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [00:35:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 540 times.
 
 [00:35:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:36:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Krake is 0.01
+[00:36:10] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Baby Krake is 0.01
+[00:36:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:36:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:36:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:36:36] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[00:36:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:36:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 545 times.
+
+[00:36:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 545 times.
+
+[00:37:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:37:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 550 times.
+
+[00:37:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 550 times.
+
+[00:38:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:38:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Jengu is 0.01
+[00:38:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 555 times.
+
+[00:38:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 555 times.
+
+[00:38:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:39:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 was slain by Eechetik  Lvl 20
+[00:39:06] [Netty Epoll Server IO #7/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[00:39:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 560 times.
+
+[00:39:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 560 times.
+
+[00:39:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Eechetik  Lvl 20 is 0.01
+[00:39:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:40:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 565 times.
+
+[00:40:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 565 times.
+
+[00:40:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 has made the advancement [A Seedy Place]
+[00:40:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:40:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 570 times.
+
+[00:40:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 570 times.
+
+[00:41:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:41:41] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 575 times.
+
+[00:41:41] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 575 times.
+
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[00:41:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[00:41:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:42:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Kobold is 0.01
+[00:42:31] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 580 times.
+
+[00:42:31] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 580 times.
+
+[00:42:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:43:21] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 585 times.
+
+[00:43:21] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 585 times.
+
+[00:43:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:44:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:44:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZiroxTKL has made the advancement [Acquire Hardware]
+[00:44:11] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 590 times.
+
+[00:44:11] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 590 times.
+
+[00:44:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:45:01] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 595 times.
+
+[00:45:01] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 595 times.
+
+[00:45:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[00:45:51] [Server thread/DEBUG] [FML]: The world 5d82588d (World) may have leaked: seen 600 times.
+
+[00:45:51] [Server thread/DEBUG] [FML]: The world 2254583b (World) may have leaked: seen 600 times.
+
