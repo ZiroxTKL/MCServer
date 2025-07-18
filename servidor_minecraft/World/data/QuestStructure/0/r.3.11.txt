@@ -2,3 +2,5 @@ UndergroundTreeoid,1529,1555,5906,5929
 RLCraft_SmallUndergroundSkeleton,1576,1584,5892,5900
 SmallAbandonedMine,1723,1738,5878,5903
 P_Tent,1749,1758,6001,6010
+RLCraft_DecentSpider,1743,1743,5829,5829
+RLCraft_UndergroundRuin3,1738,1746,5823,5831

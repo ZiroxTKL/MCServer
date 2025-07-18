@@ -161,6 +161,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-18 01:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-07-18 00:59:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-17 23:18:45 +0000"
@@ -200,6 +212,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 00:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-18 01:01:21 +0000"
     },
     "done": true
   },
@@ -278,6 +296,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-17 23:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-18 01:01:34 +0000"
     },
     "done": true
   },
@@ -367,6 +391,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-18 01:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-18 00:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-18 00:15:54 +0000"
@@ -376,6 +412,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 00:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-18 00:59:06 +0000"
     },
     "done": true
   },
@@ -565,6 +607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-18 00:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-07-18 00:16:05 +0000"
@@ -591,6 +639,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2025-07-18 01:01:08 +0000",
       "forest": "2025-07-18 00:04:59 +0000",
       "deep_ocean": "2025-07-18 00:31:01 +0000",
       "beaches": "2025-07-17 23:13:22 +0000",
@@ -644,6 +693,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-07-17 23:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-18 01:01:34 +0000"
     },
     "done": true
   },
@@ -719,6 +774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-18 01:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-07-17 23:07:13 +0000"
@@ -784,9 +845,16 @@
       "skeleton": "2025-07-17 23:23:57 +0000",
       "blaze": "2025-07-18 00:16:47 +0000",
       "cave_spider": "2025-07-18 00:13:52 +0000",
-      "zombie": "2025-07-17 23:27:30 +0000"
+      "zombie": "2025-07-17 23:27:30 +0000",
+      "creeper": "2025-07-18 01:05:35 +0000"
     },
     "done": false
+  },
+  "wolfarmor:recipes/combat/iron_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2025-07-18 00:51:22 +0000"
+    },
+    "done": true
   },
   "astikorcarts:recipes/wheel": {
     "criteria": {
