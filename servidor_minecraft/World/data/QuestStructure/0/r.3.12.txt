@@ -1,3 +1,5 @@
 RLCraft_SmallUndergroundSkeleton,1561,1569,6270,6278
 ShrineSmallFire,1714,1724,6191,6201
 P_PreysPerch,1593,1639,6366,6412
+ShrineSmallFire,1818,1828,6278,6288
+StoneIceBoulder2,1851,1860,6143,6152

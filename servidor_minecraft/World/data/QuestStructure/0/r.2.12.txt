@@ -2,3 +2,5 @@ ShrineSmallAir,1427,1435,6141,6149
 DesertWatchtower,1417,1427,6203,6213
 RLCraft_DecentCaveSpider,1463,1463,6406,6406
 RLCraft_UndergroundRuin3,1461,1469,6401,6409
+RLCraft_DecentZombie,1440,1440,6521,6521
+RLCraft_UndergroundRuin2,1435,1442,6516,6526

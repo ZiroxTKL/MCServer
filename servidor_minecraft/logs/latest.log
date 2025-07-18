@@ -119,3 +119,17 @@
 [00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [00:22:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [00:25:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 drowned
+[00:27:26] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  com.github.alexthe666.iceandfire.entity.EntityGorgon$4!
+[00:27:26] [Server thread/INFO] [ISeeDragons]: Applying patch [HookGorgonHead] Hook EntityGorgon$4 to stop some entities from getting stoned
+[00:27:26] [Server thread/INFO] [ISeeDragons]: Writing class com.github.alexthe666.iceandfire.entity.EntityGorgon$4 with flags FRAMES
+[00:27:26] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[00:27:26] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[00:27:26] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[00:28:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:28:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:29:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:29:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:29:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:29:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:30:48] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 102 and chunkZ 408...
+[00:31:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MLPB016 has made the advancement [Diamonds!]
